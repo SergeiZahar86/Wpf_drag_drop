@@ -11,6 +11,6 @@
         <SolidColorBrush Color="{Binding Color}"/>
     </UserControl.Background>
     <Grid>
-            
+        <TextBlock Text="VV" FontSize="30"/>
     </Grid>
 </UserControl>
